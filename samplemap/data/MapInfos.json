@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":false,"name":"街","order":1,"parentId":0,"scrollX":1484.5,"scrollY":1966},
+{"id":2,"expanded":false,"name":"城","order":2,"parentId":0,"scrollX":1196.5,"scrollY":1440},
+{"id":3,"expanded":false,"name":"ダンスホール","order":3,"parentId":0,"scrollX":667.5,"scrollY":998},
+{"id":4,"expanded":false,"name":"酒場","order":4,"parentId":0,"scrollX":667.5,"scrollY":442},
+{"id":5,"expanded":false,"name":"宿屋","order":5,"parentId":0,"scrollX":675.5,"scrollY":455},
+{"id":6,"expanded":false,"name":"法廷","order":6,"parentId":0,"scrollX":667.5,"scrollY":442},
+{"id":7,"expanded":false,"name":"図書館","order":7,"parentId":0,"scrollX":667.5,"scrollY":702},
+{"id":8,"expanded":false,"name":"カフェ","order":8,"parentId":0,"scrollX":667.5,"scrollY":442},
+{"id":9,"expanded":false,"name":"民家","order":9,"parentId":0,"scrollX":544.3333333333334,"scrollY":378.6666666666667},
+{"id":10,"expanded":false,"name":"アクアリウム","order":10,"parentId":0,"scrollX":667.5,"scrollY":842}
+]

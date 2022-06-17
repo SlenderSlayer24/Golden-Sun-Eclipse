@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Outside001","order":1,"parentId":0,"scrollX":819,"scrollY":461.5},
+{"id":2,"expanded":false,"name":"Outside002","order":2,"parentId":0,"scrollX":811,"scrollY":690.5},
+{"id":3,"expanded":false,"name":"Outside003","order":3,"parentId":0,"scrollX":819,"scrollY":461.5},
+{"id":4,"expanded":false,"name":"Outside004","order":4,"parentId":0,"scrollX":819,"scrollY":461.5},
+{"id":5,"expanded":false,"name":"Outside005","order":5,"parentId":0,"scrollX":819,"scrollY":461.5},
+{"id":6,"expanded":true,"name":"Interior001","order":6,"parentId":0,"scrollX":819,"scrollY":461.5},
+{"id":7,"expanded":false,"name":"Interior002","order":7,"parentId":0,"scrollX":819,"scrollY":461.5},
+{"id":8,"expanded":false,"name":"ExampleDoorEvent","order":8,"parentId":0,"scrollX":819,"scrollY":461.5}
+]
