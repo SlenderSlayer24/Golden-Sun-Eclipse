@@ -3,7 +3,7 @@
 Fan game inspired by the Golden Sun series. I made it in RPG Maker MV and created my own system based on the classic
 Golden Sun system. As well as a unique setting and cast of characters.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/5BQN67vGXSw)
 
 # Development Environment
 
