@@ -1,21 +1,22 @@
 # Overview
 
-Fan game inspired by the Golden Sun series. I made it in RPG Maker MV and created my own system based on the classic
-Golden Sun system. As well as a unique setting and cast of characters.
+This Project is the continuation of my own Golden Sun Fan Game. Focusing on the functionality of the game as well as the game's
+class mechanics. Getting the frame work for that it as well as getting all the classes and skills functioning.
 
-[Software Demo Video](https://youtu.be/5BQN67vGXSw)
+[Software Demo Video](http://youtu.be/RMbXnxM00ZU)
 
 # Development Environment
 
-RPG Maker MV is a program made specificly to help people make Role playing game. It gives a lot of tools to a programmer such
-as easy map building and event controls.
+This game was mainly develouped RPG Maker MV which is a program made to help others make classic RPG games.
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [RPG maker supposrt forums](https://forums.rpgmakerweb.com/index.php?forums/rpg-maker-mz-support.180/)
+* [RPG Maker Forums](https://forums.rpgmakerweb.com/index.php)
 
 # Future Work
-* Finish all classes
-* Flesh out class skills and equipment
-* Continue making story and maps.
+
+{Make a list of things that you need to fix, improve, and add in the future.}
+* Refine Skill Learning and Unlearning
+* Expand Enemy and Encounter List
+* Continue Game Story
